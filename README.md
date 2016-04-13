@@ -1,5 +1,5 @@
 # machttp2
-Old archives of classic MacHTTP source and binaries for MacOS X 10.5ish and earlier, and Mac OS X 7.x - 9.x
+Old archives of classic MacHTTP source and binaries for MacOS X 10.5ish and earlier, and Mac OS 7.x - 9.x
 
 ## Files
 
