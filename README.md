@@ -1,7 +1,7 @@
 # machttp2
 Old archives of classic MacHTTP source and binaries for MacOS X 10.5ish and earlier, and Mac OS 7.x - 9.x
 
-You can download various MacHTTP 2 releases from this repositories [Releases tab](https://github.com/machttp/machttp2/releases).
+You can download various MacHTTP 2 releases from this repository's [Releases tab](https://github.com/machttp/machttp2/releases).
 
 ## Files
 
